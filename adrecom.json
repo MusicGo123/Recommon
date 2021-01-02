@@ -17,14 +17,6 @@
 "weight": 190
 },
 {
-"des": "Free music download app, Mp3 music downloader free All song downloader",
-"ic": "https://image.winudf.com/v2/image1/Y29tLm11c2ljbXAzLm1wM2Rvd25sb2FkLm1wM3BsYXllcl9pY29uXzE2MDU5MjA5MTJfMDE5/icon.png?w=170&fakeurl=1",
-"pke_name": "com.musicmp3.mp3download.mp3player",
-"title": "MP3 Downloader - Free Music Downloader",
-"interstitial": false,
-"wet": 190
-},
-{
 "des": "Video Downloader for Facebook is the easiest Video Downloader app",
 "ic": "https://image.winudf.com/v2/image1/Y29tLmZhY2Vib29rdmlkZW9kb3dubG9hZGVyLmRvd25sb2FkdmlkZW8uZmFjZWJvb2tkb3dubG9hZF9pY29uXzE1OTYyNDM5NDFfMDA1/icon.png?w=340&fakeurl=1",
 "pke_name": "com.facebookvideodownloader.downloadvideo.facebookdownload",
@@ -62,14 +54,6 @@
 "pke_name": "com.freemusic.downloadmusic.lyricmp3",
 "title": "Music Downloader - Free Mp3 Downloader",
 "interstitial": false,
-"weight": 190
-},
-{
-"des": "This music player has unlimited pop songs, offline music. Download it now!",
-"ic": "https://image.winudf.com/v2/image1/Y29tLm11c2ljcGxheWVyLnRoZW1lcGxheWVyLm11c2ljZ290b19pY29uXzE1ODk0MjE2ODVfMDUy/icon.png?w=340&fakeurl=1",
-"pke_name": "com.musicplayer.themeplayer.musicgoto",
-"title": "Free Music - Unlimited Offline Music Download Free",
-"interstitial": true,
 "weight": 190
 },
 {
