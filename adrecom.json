@@ -33,14 +33,6 @@
 "weight": 190
 },
 {
-"des": "This music player has unlimited pop songs, offline music. Download it now!",
-"ic": "https://image.winudf.com/v2/image1/Y29tLm11c2ljcGxheWVyLm1wM3BsYXllci5tdXNpY2JveC5tdXNpY3RvX2ljb25fMTU4NDY4OTQwNl8wNDg/icon.png?w=170&fakeurl=1",
-"pke_name": "com.musicplayer.mp3player.musicbox.musicto",
-"title": "Free Music Player - Mp3 Player, Themes, Equalizer",
-"interstitial": true,
-"weight": 190
-},
-{
 "des": "Free music download app, Mp3 music downloader free All song downloader",
 "ic": "https://image.winudf.com/v2/image1/Y29tLm11c2ljZG93bmxvYWQudG9kb3dubG9hZC5tdXNpY19pY29uXzE2MTEwOTM2NjhfMDEw/icon.png?w=340&fakeurl=1",
 "pke_name": "com.musicdownload.todownload.music",
